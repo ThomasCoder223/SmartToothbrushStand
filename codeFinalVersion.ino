@@ -1,3 +1,5 @@
+//when you have finished setting up the variables, upload this program with the same data
+
 extern volatile unsigned long timer0_millis;
 
 #include <Arduino.h>
